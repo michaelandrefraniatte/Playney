@@ -1,0 +1,15 @@
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\Playney.exe.config
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\Playney.exe
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\Playney.pdb
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\Microsoft.Web.WebView2.Core.xml
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.Form1.resources
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.Properties.Resources.resources
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.csproj.CopyComplete
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.exe
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.pdb
