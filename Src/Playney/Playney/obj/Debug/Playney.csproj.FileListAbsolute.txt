@@ -1,0 +1,17 @@
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Debug\Playney.exe.config
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Debug\Playney.exe
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Debug\Playney.pdb
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Debug\Playney.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Debug\Playney.Form1.resources
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Debug\Playney.Properties.Resources.resources
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Debug\Playney.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Debug\Playney.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Debug\Playney.csproj.CopyComplete
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Debug\Playney.exe
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Debug\Playney.pdb
