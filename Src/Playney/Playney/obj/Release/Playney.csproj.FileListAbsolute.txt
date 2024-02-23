@@ -9,6 +9,12 @@ C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.
 C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.Properties.Resources.resources
 C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.csproj.GenerateResource.cache
 C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.csproj.CopyComplete
 C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.exe
 C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.pdb
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\Microsoft.Web.WebView2.Core.dll
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\bin\Release\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\micha\Documents\github\Playney\Src\Playney\Playney\obj\Release\Playney.csproj.Up2Date
